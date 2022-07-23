@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keyur Prajapati
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning, NLP, Azure, EDA
+- 🌱 I’m currently learning Machine Learning, NLP, Azure, EDA ,Matlab
 - E-Mail  -  1593keyur@gmail.com
 - Linkdin -  https://www.linkedin.com/in/keyurprajapati1502/
 <!---
